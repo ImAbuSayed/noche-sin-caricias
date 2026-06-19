@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Noche sin caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-caricias/) |
+| **Get License** | [License this song: Noche sin caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, no me dejes solo con las ganas de ti
+> Desde que te vi en la disco no he podido dormir
+> Una noche sin caricias es un juego perdí'o
+> Ven y calienta mi cama que me muero de frío
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
