@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Noche sin caricias |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche sin caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-caricias/) |
+| **Get License** | [Obtain a Music License for Noche sin caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Mami, no me dejes solo con las ganas de ti
-> Desde que te vi en la disco no he podido dormir
-> Una noche sin caricias es un juego perdí'o
-> Ven y calienta mi cama que me muero de frío
+> Noche sin caricias, siento tu calor
+> Bailando entre las sombras, buscando tu sabor
+> Tus labios son mi vicio, mi dulce tentación
+> Esta noche es nuestra, perdemos la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
