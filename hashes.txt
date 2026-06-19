@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche sin caricias
+
+This log tracks the cryptographic history and versioning for the song **Noche sin caricias** (noche-sin-caricias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T03:10:31.425105 | `v1` | `1fdd813a4db9bd9bf4f65f7d09b972b538e8444f811f845d01718bf64ef9ebed` | `64eba6b5a8a86fbf9a8deb5e95d7933983d34d6f1112b02d8b32e94685c9fb11` | `2026-06-20_noche-sin-caricias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
