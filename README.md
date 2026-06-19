@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-sin-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Noche sin caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-caricias/) |
+| **Get License** | [Official Music Licensing for Noche sin caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-sin-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `1fdd813a4db9bd9bf4f65f7d09b972b538e8444f811f845d01718bf64ef9ebed` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `860396402e4808704aac4417a232d2a0784a8a5a42fb0bd05646645c1720656c` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

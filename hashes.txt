@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Noche si
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T03:10:31.425105 | `v1` | `1fdd813a4db9bd9bf4f65f7d09b972b538e8444f811f845d01718bf64ef9ebed` | `64eba6b5a8a86fbf9a8deb5e95d7933983d34d6f1112b02d8b32e94685c9fb11` | `2026-06-20_noche-sin-caricias-v1.txt` |
+| 2026-06-20T03:52:50.991067 | `v2` | `860396402e4808704aac4417a232d2a0784a8a5a42fb0bd05646645c1720656c` | `b7789899d2e366b5d0d77cd2f0890556be661c3f9a37a56357e0dc669ea65c04` | `2026-06-20_noche-sin-caricias-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
